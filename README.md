@@ -171,8 +171,8 @@ arquivos estáticos, publicada no GitHub Pages a cada atualização da branch `m
 Você vai precisar do [Node.js](https://nodejs.org/) 20 ou mais recente.
 
 ```bash
-git clone https://github.com/vidaltechnologies/prismareports.git
-cd prismareports
+git clone https://github.com/vidaltechnologies/prismareports-app.git
+cd prismareports-app
 npm install
 npm run dev
 ```
