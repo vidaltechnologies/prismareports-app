@@ -174,8 +174,8 @@ published to GitHub Pages every time the `main` branch is updated.
 You need [Node.js](https://nodejs.org/) 20 or newer.
 
 ```bash
-git clone https://github.com/vidaltechnologies/prismareports.git
-cd prismareports
+git clone https://github.com/vidaltechnologies/prismareports-app.git
+cd prismareports-app
 npm install
 npm run dev
 ```
